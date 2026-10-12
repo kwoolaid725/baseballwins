@@ -1,0 +1,15 @@
+Package: baseballwins
+Title: Compare Baseball Records with Run-Based Expectations
+Version: 0.1.0
+Authors@R: person("Woohyun", "Kim", email = "woodenkim92@gmail.com",
+    role = c("aut", "cre"))
+Description: Estimates Pythagorean winning percentages from runs scored and
+    allowed, then compares expected wins with actual team records. Functions
+    accept one team or equal-length vectors for several teams and validate
+    inputs before calculating results.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+URL: https://github.com/kwoolaid725/baseballwins
+BugReports: https://github.com/kwoolaid725/baseballwins/issues
+Config/roxygen2/version: 8.1.1
