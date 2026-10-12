@@ -1,4 +1,4 @@
-Package: baseballwins
+Package: baseballtools
 Title: Compare Baseball Records with Run-Based Expectations
 Version: 0.1.0
 Authors@R: person("Woohyun", "Kim", email = "woodenkim92@gmail.com",
@@ -10,6 +10,6 @@ Description: Estimates Pythagorean winning percentages from runs scored and
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-URL: https://github.com/kwoolaid725/baseballwins
-BugReports: https://github.com/kwoolaid725/baseballwins/issues
+URL: https://github.com/kwoolaid725/baseballtools
+BugReports: https://github.com/kwoolaid725/baseballtools/issues
 Config/roxygen2/version: 8.1.1

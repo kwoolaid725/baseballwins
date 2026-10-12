@@ -1,4 +1,4 @@
-# baseballwins
+# baseballtools
 
 A small R package for comparing baseball team records with run-based expectations.
 

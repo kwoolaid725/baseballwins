@@ -1,4 +1,4 @@
-library(baseballwins)
+library(baseballtools)
 
 near <- function(actual, expected) {
   stopifnot(isTRUE(all.equal(actual, expected, tolerance = 1e-12)))
